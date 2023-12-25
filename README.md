@@ -2,12 +2,11 @@
 
 Today, I am engineering the design, build & launch of bodyboon.com. A passion project & start up. <br/>
 It's a way to address American eating standards by making it possible to eat healthier without having to subscribe to a restrictive diet. <br/>
-(っ˘ڡ˘ς) ♨
-<br />
 
-<h4>How Bodyboon works:</h4>
+<h4>How Bodyboon works: </h4>
 
 First establish a baseline by entering the ingredients found within a meal into Bodyboon. After eating, ```log``` the meal into Bodyboon to analyze it's nutritional content. A breakdown will be provided displaying the total amount of nutrients & provide additional insights into how to improve.<br />
+(っ˘ڡ˘ς) ♨
 
 By utilizing this strategy it's possible to both address & bolster the foundation to our bodies health without having to restrict the diet through traditional methods. Instead, we focus on expanding our food palate to include foods rich in the nutrients we presently need. Using actual data unique to our particular set of circumstances.<br/>
 (๑ᵔ⤙ᵔ๑)
