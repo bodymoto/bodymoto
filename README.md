@@ -16,10 +16,10 @@ By utilizing this strategy it's possible to both address & bolster the foundatio
 Bodyboon uses verified & trusted USDA data, a scientific nutritional atlas on nearly 6,000 different food items, to analyze each ingredient found within a meal *(44x nutrients in total)*. It calculates dietary recommendations based on age, sex, weight, height, & activity levels *(ie; proteins, carbs, calories, fats, vitamins, minerals, antioxidants, & more)*. And offers a way to track daily total nutrient intake. <br />
 
 Bodyboon is a full stack single page web application. The front-end is built with Web components & Lit, & the back-end with Express using a stateless REST architecture. The user sign-up & payment subscription services were engineered with Google's SDK for authentication, Stripe's SDK for payment processing, & MongoDB for user data storage & retreival. Each HTTP request is secured by TLS & verified on the back-end using a JWT token. These developments are ongoing.<br />
-<br />
+<br /><br />
 JavaScript · HTML · CSS · Lit · Express · Web components · REST · Google Cloud · Firebase SDK · Stripe SDK · MongoDB · Git · Webpack · Babel · Browser Compatibility · Responsive Mobile UI
 
-<br /><br/><br/>
+<br /><br/>
 
 *Being healthy is much bigger than simply losing weight or remaining fit. Your cells require specific vitamins & minerals to perform essential functions & repairs. The truth is that, although important, no amount of cardio or weight loss provides this critical nourishment!* <br />
 
