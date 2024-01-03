@@ -40,5 +40,4 @@ def vibing(♫, ♨)
 <img src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4"  width="32" height="32" alt="Express Logo"/> \ 
 <img src="https://avatars.githubusercontent.com/u/1335026?s=48&v=4"  width="32" height="32" alt="Firebase Logo"/> \ 
 <img src="https://avatars.githubusercontent.com/u/2105791?s=48&v=4" width="32" height="32" alt="Webpack Logo"/> \ 
-<img src="https://avatars.githubusercontent.com/u/9637642?s=48&v=4" width="32" height="32" alt="Babel Logo"/> \ 
-<img src="https://avatars.githubusercontent.com/u/6019716?s=48&v=4" width="32" height="32" alt="ESLint Logo"/>
+<img src="https://avatars.githubusercontent.com/u/9637642?s=48&v=4" width="32" height="32" alt="Babel Logo"/>
