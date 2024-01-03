@@ -29,7 +29,6 @@ JavaScript · HTML · CSS · Lit · Express · Web components · REST · Google 
 
 ```python
 def vibing(♫, ♨)
-(~‾⌣‾)~  7( ^-^7)
 ```
 <br/>
 
