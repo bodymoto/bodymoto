@@ -1,6 +1,7 @@
 <h2> Welcome, </h2><br/>
 
 Today, I am engineering the design, build & launch of bodyboon.com. A passion project & start up. <br/>
+<br/>
 It's a way to address American eating standards by making it possible to eat healthier without having to subscribe to a restrictive diet. <br/>
 
 <h4>How Bodyboon works: </h4>
@@ -27,7 +28,8 @@ JavaScript · HTML · CSS · Lit · Express · Web components · REST · Google 
 
 
 ```python
-def vibing(♫, coffee) (~‾⌣‾)~  7( ^-^7)
+def vibing(♫, ♨)
+(~‾⌣‾)~  7( ^-^7)
 ```
 <br/>
 
