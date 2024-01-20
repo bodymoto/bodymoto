@@ -1,6 +1,6 @@
 <h2> Welcome, </h2><br/>
 
-Today, I am engineering the design, build & launch of bodyboon.com. A passion project & start up. <br/>
+Today, I am engineering the design, build & launch of bodyboon.com. A passion project. <br/>
 <br/>
 It's a way to address American eating standards by making it possible to eat healthier without having to subscribe to a restrictive diet. <br/>
 
