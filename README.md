@@ -6,7 +6,7 @@ Bodyboon represents a way for Americans to address American eating standards by 
 
 <h4>How Bodyboon works: </h4>
 
-First establish a baseline by entering the ingredients found within a meal into Bodyboon. After eating, ```log``` the meal into Bodyboon to analyze it's nutritional content. A breakdown will be provided displaying the total amount of nutrients & provide additional insights into how to improve.<br />
+First establish a baseline by entering the ingredients found within a meal into Bodyboon. After eating, ```log``` the meal to analyze it's nutritional content. A breakdown will be provided displaying the total amount of nutrients & provide additional insights into how to improve.<br />
 (っ˘ڡ˘ς) ♨
 
 By utilizing this strategy it's possible to both address & bolster the foundation to our bodies health without having to restrict the diet through traditional methods. Instead, we focus on expanding our food palate to include foods rich in the nutrients we presently need. Using actual data unique to our particular set of circumstances.<br/>
