@@ -2,7 +2,7 @@
 
 Today, I am engineering the design, build & launch of bodyboon.com. A SaaS product & passion project. <br/>
 <br/>
-It's a way to address American eating standards by making it possible to eat healthier without having to subscribe to a restrictive diet. <br/>
+Bodyboon represents a way for Americans to address American eating standards by making it possible to gradually eat healthier without having to subscribe to a rigid diet. <br/>
 
 <h4>How Bodyboon works: </h4>
 
