@@ -12,9 +12,8 @@ First establish a nutritional baseline. Enter the ingredients found in a meal yo
 By utilizing this strategy it becomes possible, for the first time, to both address & enhance our bodies foundational health without having to restrict our diet via traditional methods. Instead, the focus is to enrich our food palate to include foods containing the nutrients we presently need - determined by personal data that is unique to our set of eating circumstances.<br/>
 (๑ᵔ⤙ᵔ๑)
 
-Feel free to message me with any questions. This work lives within a private Github repo.
+This work lives within a private Github repo.<br/>
 
 ```python
 def vibing(♫, ♨)
 ```
-<br/>
