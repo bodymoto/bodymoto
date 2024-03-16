@@ -31,13 +31,3 @@ JavaScript · HTML · CSS · Lit · Express · Web components · REST · Google 
 def vibing(♫, ♨)
 ```
 <br/>
-
-\ <img src="https://github.com/bodymoto/dev-website/blob/21d63854eaffc9e9e2da4851ada03381e79bfa7d/img/logo/javascript-logo.png" width="32" height="32" alt="JavaScript Logo"/> \ 
-<img src="https://github.com/bodymoto/dev-website/blob/21d63854eaffc9e9e2da4851ada03381e79bfa7d/img/logo/html5-logo.png" width="32" height="32" alt="HTML5 Logo"/> \ 
-<img src="https://github.com/bodymoto/dev-website/blob/21d63854eaffc9e9e2da4851ada03381e79bfa7d/img/logo/css3-logo.png" width="32" height="32" alt="CSS3 Logo"/> \ 
-<img src="https://github.com/bodymoto/dev-website/blob/21d63854eaffc9e9e2da4851ada03381e79bfa7d/img/logo/python-logo.png" width="32" height="32" alt="Python Logo"/> \ 
-<img src="https://avatars.githubusercontent.com/u/18489846?s=48&v=4" width="32" height="32" alt="Lit Logo"/> \ 
-<img src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4"  width="32" height="32" alt="Express Logo"/> \ 
-<img src="https://avatars.githubusercontent.com/u/1335026?s=48&v=4"  width="32" height="32" alt="Firebase Logo"/> \ 
-<img src="https://avatars.githubusercontent.com/u/2105791?s=48&v=4" width="32" height="32" alt="Webpack Logo"/> \ 
-<img src="https://avatars.githubusercontent.com/u/9637642?s=48&v=4" width="32" height="32" alt="Babel Logo"/>
