@@ -1,6 +1,6 @@
 <h2> Welcome, </h2><br/>
 
-I am engineering the MVP of bodyboon.com <br/>
+I am engineering the MVP of bodyboon.com (in closed beta, not yet available to the public)<br/>
 <br/>
 *Bodyboon is a passion project, inspired by many years of Keto dieting & the feedback I received expressed by my American peers on the subject who, while aspiring to adopt a similar lifestyle, found it too difficult to adhere to. My mission is to change all that!* <br />
 
