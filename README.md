@@ -9,7 +9,7 @@ Not available to the general public, this work includes but is not limited to:
 - Designing a MongoDB user profile for data storage/retreival
 - A frontend with Web component based architecture (shadow DOM, html templates, props down/events up)
 - A backend with stateless REST architecture
-- A suite of custom algorithms used to manipulate a data structure containing nearly 6,000 objects
+- A suite of custom algorithms used to manipulate a custom data structure containing a dictionary of nearly 6,000 objects
 <br/>
 
 **How Bodyboon works:** <br/>
