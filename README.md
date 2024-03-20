@@ -1,8 +1,8 @@
 <h2> Welcome, </h2><br/>
 
-I am engineering the MVP of bodyboon.com (in closed beta, not yet available to the public)<br/>
+I am engineering the MVP of bodyboon.com, a food & nutrient web application for meal nutrition analysis. (in closed beta, not yet available to the public)<br/>
 <br/>
-*Bodyboon is a passion project, inspired by many years of Keto dieting & the feedback I received expressed by my American peers on the subject who, while aspiring to adopt a similar lifestyle, found it too difficult to adhere to. My mission is to change all that!* <br />
+*Bodyboon is a passion project, inspired by many years of Keto dieting & is re-enforced by feedback I received from my American peers on the subject who, while aspiring to adopt a similar lifestyle, found it too difficult to adhere to.* <br />
 
 <h4>How Bodyboon works: </h4>
 
