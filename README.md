@@ -13,8 +13,9 @@ Not available to the general public, this work includes but is not limited to:
 <br/>
 
 **How Bodyboon works:** <br/>
+<br/>
 First establish a nutritional baseline. Enter the ingredients found in a meal you normally eat into Bodyboon and then analyze the meal to view it's nutrition content. A breakdown will be provided displaying the total amount of nutrients & provide additional insights into how to improve. It also tracks your daily nutrition and provides dietary recommendations.<br />
-(っ˘ڡ˘ς) ♨ (๑ᵔ⤙ᵔ๑)
+(っ˘ڡ˘ς) ♨ (๑ᵔ⤙ᵔ๑)<br/>
 
 ```python
 def vibing(♫, ♨)
