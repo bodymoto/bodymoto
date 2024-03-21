@@ -2,7 +2,7 @@
 
 I am solo engineering the MVP of bodyboon.com (currently in closed beta), a food & nutrient web application for meal nutrition analysis.<br/>
 
-Not available to the general public, this work includes but is not limited to:
+The project code is not available to the general public. This work includes but is not limited to:
 
 - Engineering a sign-up flow using Google's Firebase SDK
 - Engineering a recurring payment subscription service using Stripe's SDK
