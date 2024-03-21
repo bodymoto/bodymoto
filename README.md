@@ -10,11 +10,10 @@ The project code is not available to the general public. This work includes but 
 - A frontend with Web component based architecture (shadow DOM, html templates, props down/events up)
 - A backend with stateless REST architecture
 - A suite of custom algorithms used to manipulate a custom data structure containing a dictionary of nearly 6,000 objects
-<br/>
 
 **How Bodyboon works:** <br/>
-<br/>
 First establish a nutritional baseline. Enter the ingredients found in a meal you normally eat into Bodyboon and then analyze the meal to view it's nutrition content. A breakdown will be provided displaying the total amount of nutrients & provide additional insights into how to improve. It also tracks your daily nutrition and provides dietary recommendations.<br />
+<br/>
 (っ˘ڡ˘ς) ♨ (๑ᵔ⤙ᵔ๑)<br/>
 
 ```python
