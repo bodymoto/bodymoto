@@ -1,6 +1,6 @@
 <h2> Welcome, </h2><br/>
 
-I am solo engineering the MVP of bodyboon.com (currently in closed beta), a food & nutrient web application for meal nutrition analysis.<br/>
+I am solo developing the MVP of bodyboon.com (currently in closed beta), a food & nutrient web application for meal nutrition analysis.<br/>
 
 The project code is not available to the general public. This work includes but is not limited to:
 
