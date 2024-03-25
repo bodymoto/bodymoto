@@ -4,8 +4,8 @@ I am solo engineering the MVP of bodyboon.com (currently in closed beta), a food
 
 The project code is not available to the general public. This work includes but is not limited to:
 
-- Engineering a sign-up flow using Google's Firebase SDK
-- Engineering a recurring payment subscription service using Stripe's SDK
+- Creating a sign-up flow using Google's Firebase SDK
+- Building a recurring payment subscription service using Stripe's SDK
 - Designing a MongoDB user profile for data storage/retreival
 - A frontend with Web component based architecture (shadow DOM, html templates, props down/events up)
 - A backend with stateless REST architecture
