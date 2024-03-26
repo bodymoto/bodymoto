@@ -12,7 +12,7 @@ The project code is not available to the general public. This work includes but 
 - A suite of custom algorithms used to manipulate a custom data structure containing a dictionary of nearly 6,000 objects
 
 **How the app works:** <br/>
-Enter the ingredients found in a meal you normally eat into the app to establish a baseline. Then analyze the meal to view it's nutrition content. A breakdown will be provided of its nutrition & offer additional insights into how to improve. It also tracks your daily nutrition intake and provides daily dietary recommendations based on your age, sex, weight, height and activity level.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Enter the ingredients found in a meal you normally eat into the app to establish a baseline. Then analyze the meal to view it's nutrition content. A breakdown will be provided of its nutrition & offer additional insights into how to improve. It also tracks your daily nutrition intake and provides daily dietary recommendations based on your age, sex, weight, height and activity level.<br />
 <br/>
 (っ˘ڡ˘ς) ♨ (๑ᵔ⤙ᵔ๑)<br/>
 
