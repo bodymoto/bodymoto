@@ -2,7 +2,9 @@
 
 I founded [bodyboon.com](https://bodyboon.com/), a food analysis & nutrition tracking application and complete SaaS product.
 
-View my public repositories (below) to review my progression as a developer. All my work is my own, geniune & unique.
+View my public repositories (below) to review my progression as a developer.
+
+All my work is my own, geniune & unique.
 
 Cheers,
 
