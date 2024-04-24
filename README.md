@@ -4,8 +4,6 @@ In 2024, I launched [bodyboon.com](https://bodyboon.com/), a food analysis & nut
 
 View my public repositories (below) to review my progression as a developer.
 
-All my work is my own, geniune & unique.
-
 Cheers,
 
 (っ˘ڡ˘ς) ♨ (๑ᵔ⤙ᵔ๑)<br/>
