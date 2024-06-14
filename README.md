@@ -2,7 +2,7 @@
 
 You may view my public repositories (below) to get a feel for my progression as a developer.
 
-But my largest project to-date is housed within a private repo (visit www.bodyboon.com)
+My largest project to-date is housed within a private repo (visit www.bodyboon.com)
 
 Cheers,
 
