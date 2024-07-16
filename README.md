@@ -3,10 +3,21 @@
 
 You may view my public repositories (below) to get a feel for my progression as a developer.
 
-My largest development to-date is housed within a private repo on Github (visit www.bodyboon.com). It's a fullstack web application and SAAS offering supporting a small paying customer base. <br/><br/>
-The project consists of three web sites, the home page (www.bodyboon.com), production ([app.bodyboon.com](app.bodyboon.com)) and beta (private).<br/><br/>
-The home page is hosted on Firebase and consists of basic HTML/CSS for ease, speed, and SEO.<br/><br/>
-The production/beta sites are containerized and deployed to a Google Cloud Run environment. User sign-up and authentication was built using Google's Firebase SDK and all http fetch requests use JWT token authorization middleware. The user checkout and payment processing was built using Stripe's SDK, using JSON queries and webhook events. Front-end JavaScript web components, Lit (lit.dev), auto-detect state changes to the shadow DOM caused by user interaction and communicate said changes using a REST API to Express.js back-end stateless architecture that speaks to MongoDB to save user data in real-time. The app itself consists of a suite of custom algorithms and manipulate custom data structures to generate unique dietary recommendations (based on a users age, weight, height, sex and activity levels), build custom recipes by searching for individual ingredients, analyzing recipes for nutritional content (44 nutrients in total), and tracking a user diet by logging recipes and showing total nutrient intake for the day and how close the user is to reaching dietary goals.
+My largest development to date is a full-stack web application and SaaS offering supporting a small paying customer base, housed in a private GitHub repository. You can visit the live site at [Bodyboon](https://bodyboon.com/).<br/>
+
+Project Overview<br/>
+The project includes three websites:
+
+- Home Page: [www.bodyboon.com](https://bodyboon.com/)<br/>
+- Production: [app.bodyboon.com](https://app.bodyboon.com/)<br/>
+- Beta: private<br/><br/>
+Production Technical Details<br/>
+- Hosting and Deployment: Production and beta sites are containerized and deployed to Google Cloud Run.<br/>
+- User Authentication: Built with Google's Firebase SDK, utilizing JWT token authorization middleware for all HTTP fetch requests.<br/>
+- Payment Processing: Implemented with Stripe's SDK, handling JSON queries and webhook events.<br/>
+- Front-End: Utilizes custom Lit (lit.dev) web components, auto-detecting state changes in the shadow DOM caused by user interaction, communicating these changes via a REST API to an Express.js back-end.<br/>
+- Back-End: Stateless architecture with Express.js, interfacing with Firebase, Stripe and MongoDB to save user data in real-time.<br/>
+- Core Functionality: Custom algorithms and data structures generate unique dietary recommendations based on user inputs (age, weight, height, sex, and activity levels).<br/> Features include custom recipe building by ingredient search, nutritional content analysis (covering 44 nutrients), and diet tracking to monitor daily nutrient intake against dietary goals.
 
 
 (っ˘ڡ˘ς) ♨ (๑ᵔ⤙ᵔ๑)<br/>
