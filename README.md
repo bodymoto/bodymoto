@@ -1,7 +1,7 @@
 <hr/>
 <h3>Hello & Welcome, </h3><br/>
 
-My entrepreneurial work is housed inside a private GitHub repository. You can visit the live site at [Bodyboon](https://bodyboon.com/).<br/>
+My entrepreneurial work is housed inside a private GitHub repository. You can visit the live site at [www.bodyboon.com](https://bodyboon.com/).<br/>
 
 Technical Overview<br/>
 - Production and beta sites are containerized and deployed to Google Cloud Run.<br/>
